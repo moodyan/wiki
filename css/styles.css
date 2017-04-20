@@ -17,12 +17,13 @@ img {
 .sidebar {
   position: absolute;
   top: 0;
-  width: 250px;
+  width: 150px;
   margin: 0;
   padding: 10px;
   max-width: 125px;
   float: left;
   background-color: lightgrey;
+  height: 100%;
 
 
 }
