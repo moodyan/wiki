@@ -13,3 +13,14 @@
 img {
   padding: 10px;
 }
+
+.sidebar {
+  max-width: 125px;
+  float: left;
+  background-color: lightgrey;
+  display:block;
+}
+
+.container {
+  float: right;
+}
