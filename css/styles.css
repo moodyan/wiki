@@ -1,0 +1,7 @@
+.well h1 p {
+  float: left;
+}
+
+.well ul {
+  float: right;
+}
