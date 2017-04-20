@@ -5,3 +5,11 @@
 .well ul {
   float: right;
 }
+
+.column1 {
+  background-color: #e6ffe6;
+}
+
+img {
+  padding: 10px;
+}
